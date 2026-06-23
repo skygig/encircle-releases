@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Encircle</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 23 Jun 2026 22:27:56 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/skygig/encircle-releases/releases/download/prod/Encircle.dmg" length="10740981" type="application/octet-stream" sparkle:edSignature="payvrNejWbagu34xs+Av/2E9alJDEWqcwoi9WGOOPYeS8cNBNTfQOZPzk0Ujg3+535coc1+IxhnIY8Cy3+T0Bg=="/>
+        </item>
+    </channel>
+</rss>
