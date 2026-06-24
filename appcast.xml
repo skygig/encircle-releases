@@ -3,12 +3,12 @@
     <channel>
         <title>Encircle</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Wed, 24 Jun 2026 03:44:52 +0530</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Wed, 24 Jun 2026 15:53:21 +0530</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/skygig/encircle-releases/releases/download/v1.1/Encircle.dmg" length="10796093" type="application/octet-stream" sparkle:edSignature="WB84VY1FGubeR2zx2dBAj3EKclwxFGWErZ8gzJ06olDzXjiac0eG/94uNbkm8y0tVzpTrsnxTExBKTs1YtKvBQ=="/>
+            <enclosure url="https://github.com/skygig/encircle-releases/releases/download/v1.2/Encircle.dmg" length="10922098" type="application/octet-stream" sparkle:edSignature="MkaEIKd41Hik/Ahyo+CInyr2G6d6Qc4agEf9tNlygkXKcQ3NxodwmCdRVGzBl6yrh2RNoyNvUfRfpfKsZw4XCQ=="/>
         </item>
     </channel>
 </rss>
